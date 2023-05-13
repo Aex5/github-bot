@@ -1,0 +1,3 @@
+25 14 * * * sudo  /var/www/html/github-bot/bot.sh
+0 20 * * * sudo /bin/bash /var/www/html/github-bot/bot.sh
+
